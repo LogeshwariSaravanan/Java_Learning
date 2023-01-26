@@ -59,8 +59,13 @@ public class _7_IncrementAndDecrement {
         System.out.println("now th evalue of number is "+ number2);//13
 
         //EXAMPLE FOR POST AND PRE INCREMENT
+        System.out.println("EXAMPLE FOR POST AND PRE INCREMENT AND DECREMENT");
         int a=3,b=4,c;
         c=a + b + a++ + b++ + ++a + ++b;
         System.out.println((c));
+
+        int num1=10, num2=20;
+        int res = a++ + b++ - ++a + --b;
+        System.out.println(res);
     }
 }
