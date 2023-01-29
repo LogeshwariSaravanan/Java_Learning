@@ -1,0 +1,22 @@
+NAMING CONVENTIONS  --> rules to be followed for naming a identifiers
+
+class, methods, variable , object --> for all this name should not match with keywords
+
+CLASS:
+   *name should start with capital letter (singleword)    ex: Student
+   *first letter of every word should start with capital letter(multiple word)  Ex: StudentName
+
+
+METHOD:
+    *first letter should start with small letter (single word) ex:read()
+    *first letter of first word is small and first letter of remaining word should be capital(multiple word)     ex:getName()
+
+
+VARIABLES AND OBJECTS:
+    *begin with alphabet or underscore or $
+    *should not begin with number
+    *should contain alphanumeric but not symbols or spaces except underscore and $
+
+
+
+
