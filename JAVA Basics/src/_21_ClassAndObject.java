@@ -31,7 +31,7 @@ Box greenBox=new Box();
 
  */
 
-class Box{//for class no memory. on the time of creating object only memory is created
+class Box{//Data and methods are defined here. for class no memory. on the time of creating object only memory is created
     int length, breadth, height;
 }
 
