@@ -1,6 +1,6 @@
 package BusReservation;
 import java.util.*;
-public class Booking {
+public class Booking {//create booking class
     String passengerName;
     int busno;
     Date date;
