@@ -25,7 +25,7 @@ RUN-TIME POLYMORPHISM
 
  */
 
-//methoed overriding example
+//method overriding example
 class Parent{//base class
     void show(){
         System.out.println("parent's show");
