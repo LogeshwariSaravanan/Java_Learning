@@ -14,24 +14,24 @@ public class _14_SwitchStatement {
         a=sc.nextInt();
         System.out.print("enter second number: ");
         b=sc.nextInt();
-        char operator;
+        String operator;
         System.out.print("enter the operator +,-,*,/,% ");
-        operator=sc.next().charAt(0);// no method for scan char in Scanner class so we get string and mention take the first character thats why we use charAT(0)
+        operator=sc.next();// no method for scan char in Scanner class so we get string and mention take the first character thats why we use charAT(0)
 
         switch(operator){
-            case '+':
+            case "+":
                 System.out.println(a+" + "+b+" = "+ (a+b));
                 break;
-            case '-':
+            case "-":
                 System.out.println(a+" - "+b+" = "+ (a-b));
                 break;
-            case '*':
+            case "*":
                 System.out.println(a+" * "+b+" = "+ (a*b));
                 break;
-            case '/':
+            case "/":
                 System.out.println(a+" / "+b+" = "+ (a/b));
                 break;
-            case '%':
+            case "%":
                 System.out.println(a+" % "+b+" = "+ (a%b));
                 break;
             default:
