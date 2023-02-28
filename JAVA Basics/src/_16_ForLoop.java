@@ -40,7 +40,7 @@ public class _16_ForLoop {
         for(int y=1;y<=5;y++) { //inner loop -->column that means this loop print the *
             System.out.print("* ");
         }
-            System.out.println(" ");
+            System.out.println();
         }
 
     }

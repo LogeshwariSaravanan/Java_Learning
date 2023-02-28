@@ -3,7 +3,7 @@ import java.util.Scanner;
 /*
 while loop --> while(condition)
 In while loop , loop variable is initialized outside the loop and writing while loop we only pass the condition and inc/dec the loop variable inside the loop
- while loop --> entry control loop, execute when the condition is true
+ while loop --> entry control loop, execute when the condition is true. It is different from do while loop
  */
 public class _17_whileLoop {
     public static void main(String[] args) {

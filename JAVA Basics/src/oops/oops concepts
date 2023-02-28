@@ -76,8 +76,8 @@ IMPORTANT NOTES:
                                                               MODIFIERS:
                                                               ---------
          TYPES OF MODIFIERS:
-                *ACCESS MODIFIERS  -->controll the access level
-                *NON-ACCESS MODIFIERS  --> do not controll access level but provide other functionality
+                *ACCESS MODIFIERS  -->control the access level
+                *NON-ACCESS MODIFIERS  --> do not control access level but provide other functionality
 
          ACCESS MODIFIERS:
          ----------------
