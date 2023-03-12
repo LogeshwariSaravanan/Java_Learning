@@ -18,8 +18,7 @@ public class _4_Encapulation {//created a class
     private String name;//private attribute --> accessed within this class
 
     //get method
-    public String getName(){
-        return name;
+    public String getName(){return name;
     }
 
     //set method

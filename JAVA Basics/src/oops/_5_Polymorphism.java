@@ -4,7 +4,7 @@ polymorphism  -->a single action in  many forms
 
 types of polymorphism
     *Compile-time polymorphism (static polymorphism) --> achieved by method overloading
-    *runtime polymorphism (dynamic polymorphism)
+    *runtime polymorphism (dynamic polymorphism)     --> Achieved by method overriding
 
 COMPILE-TIME POLYMORPHISM
     *Achieved by method overloading .
@@ -29,6 +29,9 @@ RUN-TIME POLYMORPHISM
 class Parent{//base class
     void show(){
         System.out.println("parent's show");
+    }
+    void name(){
+        System.out.println("Logi");
     }
 
 public static class _5_Polymorphism extends Parent {//inherited class
